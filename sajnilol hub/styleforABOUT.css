@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #207c85;
+}
+div{
+    border: solid 2px;
+    background-color: darkgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

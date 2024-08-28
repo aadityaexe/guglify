@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: black;
+    background-image: url(photo/aditya.png);
+   background-repeat: no-repeat;
+   background-position: 1186px 448px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 2vh;
+    height: 7vh;
+
+}
+.navbar a{
+    font-size: 3rem;
+    
+}
+
+.content {
+    
+    border: 2px solid rgb(79, 75, 75);
+
+}
+.image-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imge {
+    display: flex;
+    justify-content: right;
+    height: 93vh;
+    width: 40%;
+    z-index: -1;
+
+}
+.information {
+   
+    align-items: center;
+    width: 60%;
+    color: aquamarine;
+
+}
+
+.information h1 {
+    color: aquamarine;
+
+}
+a{
+    text-decoration: none;
+}
